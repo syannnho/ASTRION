@@ -8,48 +8,14 @@ return {
     -- ========================================
     -- KOTA BUKAN GUNUNG
     -- ========================================
-    ["108523862114142"] = {
-        name = "KOTA BUKAN GUNUNG",
-        url = "https://raw.githubusercontent.com/syannnnnnn-h/ASTRION/refs/heads/main/JSON/KBG.json",
-        description = "Auto route untuk Kota Bukan Gunung",
-        lastUpdated = "2025-01-15",
-        author = "Astrion Team"
-    },
     
-    -- ========================================
-    -- MOUNT YAGESYA
-    -- ========================================
-    ["82748630433642"] = {
-        name = "MOUNT YAGESYA",
-        url = "https://raw.githubusercontent.com/syannnnnnn-h/ASTRION/refs/heads/main/JSON/YAGESYA+.json",
-        description = "Auto route untuk Mount Yagesya",
-        lastUpdated = "2025-01-15",
-        author = "Astrion Team"
-    },
-
-    ["76964310785698"] = {
-        name = "MOUNT YAHAYUK",
-        url = "https://raw.githubusercontent.com/syannnnnnn-h/ASTRION/refs/heads/main/JSON/YAHAYUK.json",
-        description = "Auto route untuk Mount Yagesya",
-        lastUpdated = "2025-01-15",
-        author = "Astrion Team"
-    },
-
-    ["109602187684894"] = {
-        name = "MOUNT AGE",
-        url = "https://raw.githubusercontent.com/syannnnnnn-h/ASTRION/refs/heads/main/JSON/cobciba.json",
-        description = "Auto route untuk Mount age",
-        lastUpdated = "2025-01-15",
-        author = "Astrion Team"
-    },
-
         ["92382543907394"] = {
         name = "MOUNT ANJIR",
-        url = "https://raw.githubusercontent.com/syannnnnnn-h/ASTRION/refs/heads/main/JSON/ANJIR.json",
+        url = "",
         description = "Auto route untuk Mount anjir",
         lastUpdated = "2025-01-15",
         author = "Astrion Team"
-    },
+    }
     
     -- ========================================
     -- TEMPLATE UNTUK MENAMBAH GAME BARU
