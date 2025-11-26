@@ -12,6 +12,7 @@ return {
         ["92382543907394"] = {
         name = "MOUNT ANJIR",
         url = "https://raw.githubusercontent.com/syannnho/ASTRION/refs/heads/main/JSONS/ANJIR2.json",
+        url2 = "https://raw.githubusercontent.com/syannnho/ASTRION/refs/heads/main/JSONS/ANJIR2.json",
         description = "Auto route untuk Mount anjir",
         lastUpdated = "2025-01-15",
         author = "Astrion Team"
